@@ -67,13 +67,13 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUt](./clientside.png)![clientside](https://user-images.githubusercontent.com/94169913/143075458-fbeca822-2ccd-478a-97bc-f367ec1f1382.png)
+![clientside](https://user-images.githubusercontent.com/94169913/143075458-fbeca822-2ccd-478a-97bc-f367ec1f1382.png)
 
 
 ### SERVER SIDE OUTPUT:
-![SERVERSIDEOUTPUT](./serverside1.png)![serverside1](https://user-images.githubusercontent.com/94169913/143075510-a6f9de1f-b617-4418-8318-1c462a25fcee.png)
+![serverside1](https://user-images.githubusercontent.com/94169913/143075510-a6f9de1f-b617-4418-8318-1c462a25fcee.png)
 
-![SERVERSIDEOUTPUT](./serverside2.png)![serverside2](https://user-images.githubusercontent.com/94169913/143075559-416dc1a3-e349-44d1-a42f-6fb1067fe0be.png)
+![serverside2](https://user-images.githubusercontent.com/94169913/143075559-416dc1a3-e349-44d1-a42f-6fb1067fe0be.png)
 
 
 
